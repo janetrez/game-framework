@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BoardTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-29T09:58:26" hostname="Treasas-MacBook-Pro.local" time="0.012">
+  <properties/>
+  <testcase name="should return all units from the given coordinates()" classname="BoardTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
